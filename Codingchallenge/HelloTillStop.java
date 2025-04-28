@@ -1,4 +1,4 @@
-package Codingchallenge;
+package codingChallenge.Codingchallenge;
 import java.util.*;
 
 public class HelloTillStop {
